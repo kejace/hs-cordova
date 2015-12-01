@@ -11,3 +11,6 @@ plugins/
 
 # GHCJS build files
 hs/dist/
+
+hs/.stackwork/
+.stackwork/
